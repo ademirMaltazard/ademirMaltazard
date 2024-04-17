@@ -2,3 +2,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ademirMaltazard&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ademirMaltazard&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ademirMaltazard&theme=default&utcOffset=8)
