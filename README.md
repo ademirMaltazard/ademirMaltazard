@@ -26,3 +26,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademirMaltazard&layout=compact&theme=merko)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ademirMaltazard&theme=merko)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ademirMaltazard&theme=merko&utcOffset=8)
+
+<img src="https://raw.githubusercontent.com/ademirMaltazard/ademirMaltazard/output/snake.svg" alt="Snake animation" />
+
